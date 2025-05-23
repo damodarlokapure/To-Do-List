@@ -9,10 +9,11 @@ A simple and responsive To-Do List built with HTML, CSS, and JavaScript.
 - Clean UI and responsive design
 
 ## 📸 Screenshot
-![Todo Screenshot](./images/screenshot.png)
+![Todo Screenshot](![to-do-list](https://github.com/user-attachments/assets/96c03294-7952-404f-ad95-af62f20b1f33)
+)
 
 ## 🔗 Live Demo
-[Click here to view](https://your-username.github.io/todo-list/)
+[Click here to view](https://damodarlokapure.github.io/To-Do-List/)
 
 ## 📁 Technologies Used
 - HTML
